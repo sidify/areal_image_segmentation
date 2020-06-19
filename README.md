@@ -11,5 +11,7 @@
 
 Step by step approach to do aerial image segmentation. Check the ipynb file.
 ## Results
+1. Without augmentation
 <img src ="https://user-images.githubusercontent.com/33628181/85137331-4ea0c980-b241-11ea-8a27-28aa0460b44a.png"/><br/>
-<img width="518" alt="Screenshot 2020-06-19 at 15 27 53" src="https://user-images.githubusercontent.com/33628181/85137419-7a23b400-b241-11ea-93da-770f3b3122b8.png">
+2. With augmentation
+<img width="447" alt="Screenshot 2020-06-19 at 15 27 53" src="https://user-images.githubusercontent.com/33628181/85138008-557c0c00-b242-11ea-815d-081e67dc39a3.png">
